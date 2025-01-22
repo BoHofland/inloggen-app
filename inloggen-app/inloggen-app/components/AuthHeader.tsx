@@ -5,7 +5,7 @@ export default function AuthHeader() {
     <View style={styles.container}>
       <Image
         source={{
-          uri: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Registereren%20optie%206%20v2-gnCGeegoIDjV8uLDbGo4yrqx6uTvx2.png",
+          uri: "",
         }}
         style={styles.image}
         resizeMode="contain"
